@@ -2,11 +2,14 @@
 title: "playAR.tech"
 output: 
  html_document:
-    theme: sandstone
-    highlight: pygments
+    theme: flatly
+    
 ---
 
 
 ## The first complete AR solution for advanced scouting and tactical preparation in basketball
+
+> Contact:
+office@playar.tech
 
 
