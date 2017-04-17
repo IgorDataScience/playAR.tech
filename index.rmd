@@ -1,0 +1,12 @@
+---
+title: "playAR.tech"
+output: 
+ html_document:
+    theme: sandstone
+    highlight: pygments
+---
+
+
+## The first complete AR solution for advanced scouting and tactical preparation in basketball
+
+
